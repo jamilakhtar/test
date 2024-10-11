@@ -1,5 +1,5 @@
 # ## Google Image Search Example
-# This simple robot will execute a Google Image Search and save the first result image.
+# This simple robot will execute a Google Image Search and save the first result image. Test
 #
 
 *** Settings ***
